@@ -11,6 +11,10 @@ https://unioulu-my.sharepoint.com/:f:/g/personal/hkhor19_univ_yo_oulu_fi/Er500cv
 
 needs to be obtained via a license agreement from the dataset provider.
 
+**Weights**
+
+https://unioulu-my.sharepoint.com/:f:/g/personal/hkhor19_univ_yo_oulu_fi/Eu3-uLPFMihJjpRWU8uOXFMBH-kyN3gQEyN2a7NR_c5Mvw?e=5oqAiJ
+
 ### Note
 
 **Clarity**

@@ -2,6 +2,8 @@
 
 **Paper URL**
 
+https://arxiv.org/abs/2507.10209
+
 
 **Optical Flow Files**
 
